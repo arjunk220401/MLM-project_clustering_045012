@@ -2,9 +2,15 @@ I would like to thank Prof. Amarnath Sir for his guidance on how to perform clus
 
 Source of the code:  https://1drv.ms/x/s!AnqtMRaFqC6YkFVICR--y8rFJ5_o?e=aW6oxe
 
-All the other information is provided in the report.
+
 
 Scikit-learn Documentation: I am grateful to the scikit-learn documentation, which provided comprehensive resources and examples that helped me implement various machine learning algorithms and techniques in this project.
 
 
-Note: Due to an extensive large dataset of 100000 rows, my hierarchial clustering is not coming due to memory storage issue, otherwise k means is coming out perfectly and the code written is right. 
+I have broken up my codes and have ensured that I follow the instructions as given.
+
+I have made the report in a separate file and the codes in three different files for ease of reading.
+
+I have also made the box plot and done the numeric encoding as instructed. 
+
+Hope, the project made is up to the mark and please do provide your valuable feedback so that I can improve. Thanks.
